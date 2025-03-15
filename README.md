@@ -7,3 +7,7 @@ dan jalankan file init.sh di gitbash, seperti ini:
 ```
 
 setelah selesai dijalankan, silahkan jalankan file start-be dan start-fe di gitbash
+```
+./start-be.sh
+./start-fe.sh
+```
