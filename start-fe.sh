@@ -1,4 +1,8 @@
+#!/bin/bash
+
 echo "================================="
-echo "======= starting frontend ======="
+echo "======= Starting Frontend ======="
 echo "================================="
+
+echo "🚀 Menjalankan frontend..."
 npm run dev
