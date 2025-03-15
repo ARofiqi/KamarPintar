@@ -4,6 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start-fe": "npm install && npm run dev",
+    "start-be": "cd server && npm install && npm run dev",
     "dev": "vite",
     "server": "nodemon server/index.js",
     "build": "vite build",

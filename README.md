@@ -1,8 +1,9 @@
 # Kamar Pintar
 
-untuk menjalankan projectnya bisa menggunakan 
+untuk menjalankan projectnya bisa clone project ini
+dan jalankan file init.sh di gitbash, seperti ini:
+```
+./init.sh
+```
 
-```
-npm run dev -> untuk menjalankan FE
-npm run server -> untuk menjalankan BE
-```
+setelah selesai dijalankan, silahkan jalankan file start-be dan start-fe di gitbash
